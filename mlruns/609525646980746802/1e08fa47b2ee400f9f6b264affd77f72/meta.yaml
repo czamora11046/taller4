@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/taller4/taller4/mlruns/1e08fa47b2ee400f9f6b264affd77f72/artifacts
+end_time: 1746916660725
+entry_point_name: ''
+experiment_id: '609525646980746802'
+lifecycle_stage: active
+run_id: 1e08fa47b2ee400f9f6b264affd77f72
+run_name: omniscient-wolf-826
+run_uuid: 1e08fa47b2ee400f9f6b264affd77f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746916657383
+status: 3
+tags: []
+user_id: runner
